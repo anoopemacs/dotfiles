@@ -1,0 +1,342 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/anoop/meteor/xslt3/" . "private/")
+ ("/Users/anoop/meteor/xslt2/" . "private/")
+ ("/Users/anoop/algo/" . "clrs/")
+ ("/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/src/" . "DateField/")
+ ("/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/" . "src/")
+ ("/Users/anoop/meteor/razorgtd1/node_modules/" . "react-date-picker/")
+ ("/Users/anoop/delete/28sept/" . "OmniFocus.ofocus/")
+ ("/Users/anoop/delete/" . "28sept/")
+ ("/Users/anoop/sem9/laser/" . "untitled folder/")
+ ("/Users/anoop/sem9/" . "laser/")
+ ("/Users/" . "anoop/")
+ ("/Users/anoop/meteor/razorgtd1/" . ".meteor/")
+ ("/Users/anoop/meteor/razor-gtd/jsDAV-anoop/public/" . "OmniFocus.ofocus/")
+ ("/Users/anoop/meteor/razor-gtd/jsDAV-anoop/" . "public/")
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin-flow-router/" . ".meteor/")
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/" . "MeteorCasts-official-github/")
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/" . ".meteor/")
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/shorten_my_link/" . ".meteor/")
+ ("/Users/anoop/meteor/evented-mind/React/" . "Understanding-React/")
+ ("/Users/anoop/meteor/evented-mind/" . "React/")
+ ("/Users/anoop/meteor/evented-mind/class-javascript-objects/" . "original-github/")
+ ("/Users/anoop/meteor/evented-mind/todos/" . ".meteor/")
+ ("/Users/anoop/meteor/0.0/" . ".meteor/")
+ ("/Users/anoop/meteor/myResolutions/client/" . "resolutions/")
+ ("/Users/anoop/meteor/myResolutions/" . ".meteor/")
+ ("/Users/anoop/react/simple-todos/" . "client/")
+ ("/" . "Users/")
+ ("/Users/anoop/react/simple-todos/imports/" . "startup/")
+ ("/Users/anoop/react/react-tutorial/" . "public/")
+ ("/Users/anoop/react/" . "thinking-in-react/")
+ ("/Users/anoop/meteor/razor-gtd/webdav0/" . "OmniFocus.ofocus/")
+ ("/Users/anoop/Documents/eclipse-workspace/omnifocus-viewer/" . "OmniViewer/")
+ ("/Users/anoop/Documents/eclipse-workspace/" . "omnifocus-viewer/")
+ ("/Users/anoop/Documents/" . "eclipse-workspace/")
+ ("/Users/anoop/meteor/razor-gtd/" . "ngrok-2/")
+ ("/Users/anoop/Downloads/" . "File Uploader/")
+ ("/Users/anoop/meteor/simple-todos/imports/" . "startup/")
+ ("/Users/anoop/meteor/simple-todos/" . "imports/")
+ ("/Users/anoop/meteor/microscope/client/templates/" . "posts/")
+ ("/Users/anoop/meteor/" . "xslt/")
+ ("/Users/anoop/meteor/microscope/" . "client/")
+ ("/Users/anoop/meteor/microscope/client/" . "templates/")
+ ("/Users/anoop/.oh-my-zsh/" . "themes/")
+ ("/Users/anoop/javascript/" . "eloquent/")
+ ("/Users/anoop/.emacs.d/" . "slime/")
+ ("/Users/anoop/wordpress-root/3PotatoHeadTutorial/wp-content/themes/potatoHeadTutorial/" . "potatoHead txt files/")
+ ("/Users/anoop/wordpress-root/second/wp-content/themes/" . "twentysixteen/")
+ ("/Users/anoop/wordpress-root/second/wp-content/" . "themes/")
+ ("/Users/anoop/wordpress-root/second/" . "wp-content/")
+ ("/Users/anoop/html-and-css/" . "css/")
+ ("/Users/anoop/wordpress-root/first/wp-content/" . "themes/")
+ ("/Users/anoop/wordpress-root/first/" . "wp-content/")
+ ("/Users/anoop/wordpress-root/first/wp-content/themes/" . "awesometheme/")
+ ("/Users/anoop/wordpress-root/" . "razorGTD/")
+ ("/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/" . "security/")
+ ("/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/" . "Home/")
+ ("/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/" . "Contents/")
+ ("/Library/Internet Plug-Ins/" . "JavaAppletPlugin.plugin/")
+ ("/Library/" . "Internet Plug-Ins/")
+ ("/Library/Java/" . "JavaVirtualMachines/")
+ ("/Users/anoop/accelerated-c++/source/" . "chapter04/")
+ ("/Users/anoop/accelerated-c++/" . "10/")
+ ("/Users/anoop/" . "reference/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/anoop/reference/"
+ "/Users/anoop/"
+ "/Users/anoop/delete/"
+ "/Users/anoop/topcoder/"
+ "/Users/anoop/algo/clrs/"
+ "/Users/anoop/meteor/xslt/"
+ "/Users/anoop/.emacs.d/"
+ "/Users/anoop/meteor/razorgtd1/.meteor/"
+ "/Users/anoop/.hammerspoon/"
+ "/Users/anoop/.ssh/"
+ "/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/src/DateField/"
+ "/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/"
+ "/Users/anoop/algo/"
+ "/Users/anoop/meteor/razorgtd1/client/"
+ "/Users/anoop/.ngrok2/"
+ "/Users/anoop/meteor/razorgtd1/"
+ "/Users/anoop/delete/28sept/OmniFocus.ofocus/"
+ "/Users/anoop/meteor/node_hello_anoop/"
+ "/Users/anoop/meteor/razor-gtd/ngrok-2/"
+ "/Users/anoop/placement/"
+ "/Users/anoop/sem9/laser/untitled folder/"
+ "/Users/anoop/sem9/laser/Laser/"
+ "/Users/anoop/sem9/ManuAuto/"
+ "/Users/anoop/meteor/razorgtd1/server/"
+ "/Users/anoop/Downloads/File Uploader/"
+ "/Users/anoop/meteor/delete/"
+ "/etc/"
+ "/Users/anoop/meteor/razor-gtd/jsDAV-anoop/public/OmniFocus.ofocus/"
+ "/Users/anoop/meteor/razor-gtd/0000zipfile/"
+ "/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin-flow-router/.meteor/"
+ "/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/.meteor/"
+ "/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/shorten_my_link/.meteor/"
+ "/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/employees/client/"
+ "/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/1 - The Basics of Any Meteor App/"
+ "/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/"
+ "/Users/anoop/meteor/evented-mind/React/Understanding-React/"
+ "/Users/anoop/meteor/evented-mind/React/Getting-Started/"
+ "/Users/anoop/meteor/evented-mind/ES2015/"
+ "/Users/anoop/meteor/evented-mind/javascript-runtime/"
+ "/Users/anoop/meteor/razor-gtd/webdav0/OmniFocus.ofocus/"
+ "~/.emacs.d/"
+ "/Users/anoop/meteor/evented-mind/class-javascript-objects/original-github/"
+ "/Users/anoop/meteor/evented-mind/class-javascript-objects/"
+ "/Users/anoop/meteor/evented-mind/"
+ "/Users/anoop/meteor/evented-mind/todos/"
+ "/Users/anoop/meteor/evented-mind/todos/.meteor/"
+ "/Users/anoop/meteor/0.0/.meteor/"
+ "/Users/anoop/meteor/0.0/client/UI/"
+ "/Users/anoop/meteor/0.0/client/resolutions/"
+ "/Users/anoop/meteor/razor-gtd/ngrok-anoop/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "orgfile.org"
+ ".zshrc"
+ "pbkdf2.js"
+ ".emacs"
+ "readme.org"
+ "greed2.conf"
+ "README.org"
+ "Hello.xsl"
+ "Hello.xml"
+ "anoop.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/anoop/" (22552 41695 0 0) "yc/" "wordpress101/" "wordpress-theme-develop/" "wordpress-root/" "WebstormProjects/" "web-udemy/" "VirtualBox VMs/" "topcoder/" "stanford-ios2/" "stanford-ios/" "sexual/" "sem9/" "rp/" "reference/" "react/" "railsTutorial/" "Public/" "project-go/" "placement/" "Pictures/" "objc-nerd-ranch/" "node_modules/" "nerdranch/" "mystery and style/" "Music/" "mtp/" "Movies/" "meteor/" "mastering-emacs/" "m-hartl/" "loginWindow.plist" "Library/" "learn-ror/" "javascript/" "jap.conf" "ios-udemy/" "in" "html-and-css/" "handmade_hero/" "fashion/" "facebook/" "emacs-backups/" "Downloads/" "Documents/" "Digging into wp/" "diary" "Desktop/" "derek-banas-c-tutorial/" "delete/" "contestapplet.conf.bak" "contestapplet.conf" "codechef-algo/" "cling.md" "cling/" "chrome_extension_development/" "c-kochan/" "bastards-ruby/" "awesome-subjects.pdf" "Applications (Parallels)/" "Applications/" "algo/" "accelerated-c++/" ".zshrc.pre-oh-my-zsh" ".zshrc" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-Anoop’s iMac-5.2" ".zcompdump-Anoop’s iMac-5.0.8" ".wget-hsts" ".viminfo" ".vim/" ".vagrant.d/" ".v8flags.5.0.71.47.anoop.json" ".Trash/" ".tooling/" ".tm_properties" ".subversion/" ".stCommitMsg" ".ssh/" ".rvm/" ".rubocop.yml" ".rnd" ".proxychains/" ".profile" ".p2/" ".oracle_jre_usage/" ".oh-my-zsh/" ".oh-my-git/" ".npmrc" ".npm/" ".node_repl_history" ".node-gyp/" ".ngrok2/" ".netrc" ".mongorc.js" ".mkshrc" ".meteorsession" ".meteorite/" ".meteor/" ".local/" ".lesshst" ".java.policy" ".irb-history" ".irb" ".ido.last~" ".ido.last" ".hgignore_global" ".heroku/" ".hammerspoon/" ".guard_history" ".gitignore_global" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".emacs" ".eclipse/" ".DS_Store" ".dbshell" ".cordova/" ".config/" ".CFUserTextEncoding" ".cache/" ".bundle/" ".bashrc" ".bash_sessions/" ".bash_profile~" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".android/" "../" "./")
+
+ ("/Users/anoop/delete/encrypt/" (22552 41695 0 0) "Vagrantfile" "temp.anoop" "sha1.js" "pbkdf2test.c" "pbkdf2test" "pbkdf2.js" "OmniGroup/" "OmniFocus.ofocus/" "index.html" "github.c" "DecryptionExample.py" "chilka.cpp" ".vagrant/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/delete/" (22552 17759 0 0) "working-translation.rb" "test2.zip" "test.zip" "temp6.txt" "temp4" "temp3.txt" "temp2.html" "temp2" "temp.txt" "temp.js" "temp.html" "temp/" "sept28/" "sept27/" "secret.txt.zip" "secret.txt" "secret copy.txt" "rm_client_files.sh" "OmniFocusDatabase2" "OmniFocus.ofocus lm3labs/" "OmniFocus.html" "OmniFocus latest encrypted.ofocus/" "models.zip" "models/" "juhi.txt" "isItBinary2" "isItBinary" "infinite.sh" "index2.html" "index.html.5" "index.html.4" "index.html.3" "index.html.2" "index.html.1" "index.html" "image.png" "hello.zip" "GMT+A+B.zip" "folder0/" "encrypt/" "encoding_check.zip" "encoding.zip" "database.config" "contents.xml" "contents 4.xml" "contents 3.xml" "contents 2.xml" "bak_28sept/" "bak/" "Archive 2.zip" "anoop.txt" "9772235.txt" "7oct/" "78568070.zip.cpgz" "78568070.zip" "78568070 2.zip.cpgz" "78568070 2.zip" "78568070 2 2.zip" "29sept/" "28sept/" "27sept/" "26sept/" "20161008032810=gvlKDJ_Vqas+aaaaaaaaaaa.zip" "20161008032810=dEULEgDd5ib+aaaaaaaaaaa.zip" "20160912233736=gSXPI3ZUudc+fN7dg9GT5Am.zip" "20160912233733=bzbSuZobvcQ+gSXPI3ZUudc.zip" "20160906150338=bbkXdIFDOnH+bbbbbbbbbbb.zip" "20160906150338=A+B.zip" "00000000000000=ojlzgB5MhPE+mrI-kx7wCKR.zip.cpgz" "00000000000000=ojlzgB5MhPE+mrI-kx7wCKR.zip" "00000000000000=ojlzgB5MhPE+a1Wmo03RL21.zip" "00000000000000=dx2mgzzanrS+i5PHz024mWN.zip" ".DS_Store" "../" "./")
+
+ ("~/.emacs.d/" (22552 14424 0 0) "xah-quickrun.el" "web-mode/" "slime/" "init.el~" "init.el" "image-dired/" "ido.last~" "ido.last" "games/" "eshell/" "elpa/" "auto-save-list/" "appt-anoop.el" "../" "./")
+
+ ("/etc/" (22551 53805 0 0) "zshrc" "zprofile" "xtab" "ttys" "syslog.conf" "sudoers" "sudo_lecture" "ssh/" "snmp/" "shells" "services" "security/" "rtadvd.conf" "rpc" "rmtab" "resolv.conf" "rc.netboot" "rc.common" "racoon/" "protocols" "profile" "ppp/" "postfix/" "php.ini.default" "php-fpm.conf.default" "pf.os" "pf.conf" "pf.anchors/" "periodic/" "paths.d/" "paths" "passwd" "pam.d/" "openldap/" "ntp_opendirectory.conf" "ntp.conf" "ntp-restrict.conf" "notify.conf" "nfs.conf" "newsyslog.d/" "newsyslog.conf" "networks" "nanorc" "master.passwd" "manpaths.d/" "manpaths" "man.conf" "mail.rc" "mach_init_per_user.d/" "mach_init_per_login_session.d/" "mach_init.d/" "locate.rc" "localtime" "krb5.keytab" "kern_loader.conf" "kcpassword" "irbrc" "hosts~" "hosts.equiv" "hosts" "group" "gettytab" "ftpusers" "ftpd.conf.default" "ftpd.conf" "fstab.hd" "find.codes" "emond.d/" "efax.rc" "dnsextd.conf" "defaults/" "cups/" "csh.logout" "csh.login" "csh.cshrc" "com.apple.screensharing.agent.launchd" "bashrc_Apple_Terminal" "bashrc" "autofs.conf" "auto_master" "auto_home" "asl.conf" "asl/" "apache2/" "aliases.db" "aliases" "afpovertcp.cfg" "../" "./")
+
+ ("/Users/anoop/delete/28sept/OmniFocus.ofocus/" (22549 14169 0 0) "20161029235713=53cbc0c38c4+41ec598982d.zip" "20161029235422=dh_Er5o3A4N+53cbc0c38c4.zip" "20161029235243=o-doFipb2wo.client" "20161029235145=cXjI2WoRh0R+dh_Er5o3A4N.zip" "20161029235132=opfRiC1-Dvh+cXjI2WoRh0R.zip" "20161029235126=0e5f9e1077b+opfRiC1-Dvh.zip" "00000000000000=cmOM3Sf6vM6+0e5f9e1077b.zip" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/client/" (22549 56314 0 0) "main.js" "main.html" "main.css" "halfstyle.css" "components/" "../" "./")
+
+ ("/Users/anoop/.emacs.d/" (22552 14424 0 0) "xah-quickrun.el" "web-mode/" "slime/" "init.el~" "init.el" "image-dired/" "ido.last~" "ido.last" "games/" "eshell/" "elpa/" "auto-save-list/" "appt-anoop.el" "../" "./")
+
+ ("/Users/anoop/algo/clrs/" (22551 10526 0 0) "Vagrantfile" "temp2.cpp" "temp.cpp" "README.org" "a.out" "2_merge_sort.cpp" "2_insertion_sort.cpp" "2.3.cpp" "2.2.cpp" "2.1.cpp" "2-4.cpp" "2-2.cpp" ".vagrant/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/" (22550 9652 0 0) "settings.json" "server/" "README.org" "public/" "private/" "package.json" "node_modules/" "imports/" "client/" ".meteor/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/server/" (22552 14540 0 0) "test_bash.js" "rebuildDatabase.js" "omnisync.js" "main.js" "downThemAll.js" "../" "./")
+
+ ("/Users/anoop/topcoder/src/" (22551 46124 0 0) "Xylophone.SRM 700_div2_250.cpp" "Xylophone.sample" "Xylophone.html" "UpDownHiking.SRM 699_div2_250.cpp" "UpDownHiking.sample" "UpDownHiking.html" "SquareFreeString.SRM 701_div2_250.cpp" "SquareFreeString.sample" "SquareFreeString.html" "a.out" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/topcoder/" (22551 35900 0 0) "TesterDream1_2_4/" "template.cc" "stl.pdf" "srm_300to400_div2_250pt/" "src/" "readme.org" "greed.conf" "Greed-2.0-RC-7.1.0.jar" "ContestAppletProd.jnlp" "afterSourceGen.sh" "afterProblemDesc.sh" "ACRush_template.cc" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/" (22547 37899 0 0) "youtube/" "your-first-meteor-app.pdf" "xslt3/" "xslt2/" "xslt/" "x2js-test/" "udemy-Meteor-and-React-for-Realtime-Apps/" "todos/" "temp/" "simple-todos/" "sept2017.jpg" "react-select/" "react-big-calendar/" "razorgtd1/" "razorgtd0/" "razor-gtd/" "node_hello_anoop/" "node-request-digest/" "node-http-digest-client/" "myResolutions/" "microscope/" "MeteorCasts/" "meteor-context-menu/" "Meteor in Action.pdf" "mastering-meteorjs.pdf" "Lisa Dusseault-WebDAV_ Next Generation Collaborative Web Authoring-Prentice Hall (2003).chm" "leaderboard/" "jsZip-test/" "intermediate/" "infinite_calendar/" "github_microscope/" "git.pdf" "fs-writefile-test/" "formsy-react/" "formsy-material-ui/" "Fabian Vogelsteller-Building Single-page Web Apps with Meteor-Packt Publishing - ebooks Account (2014).pdf" "example_ofocus_files/" "evented-mind/" "ecma6.js" "Discover-Meteor-8chapters.pdf" "Discover Meteor.pdf" "deploys/" "delete-heroku-apps.sh" "delete/" "contents.org" "before-webdav-simple-todos copy/" "a+b+c-investigation/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/javascript-runtime/" (22470 53593 0 0) "7-Asynchronous Code.mp4" "6-Using Timers.mp4" "5-The Event Loop.mp4" "4-Jumping the Call Stack with Try, Catch and Throw.mp4" "3-The Call Stack.mp4" "2-Getting Set Up.mp4" "1-What is a Runtime?.mp4" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/ES2015/" (22471 52891 0 0) "src/" "9-The Spread Operator.mp4" "8-Promises.mp4" "7-Generators.mp4" "6-Iterators.mp4" "5-Fat Arrow Functions.mp4" "4-How \"Classes\" Worked Before.mp4" "3-Classes.mp4" "2-Setup With Babel and Meteor.mp4" "10-Default Parameters.mp4" "1-What is ECMAScript?.mp4" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/React/Getting-Started/" (22472 3844 0 0) "src/" "9-What's Next?.mp4" "8-Event Handlers.mp4" "7-Lifecycle Methods.mp4" "6-Reactive State.mp4" "5-Rendering Lists.mp4" "4-Component Properties.mp4" "3-Creating Components.mp4" "2-Getting Set Up.mp4" "1-What Is React?.mp4" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/React/Understanding-React/" (22472 20251 0 0) "src/" "8-Using React Tools On The Server.mp4" "7-Introduction To Server Side Rendering.mp4" "6-JSX Build Options.mp4" "5-Compiling JSX.mp4" "4-React Components.mp4" "3-React Elements.mp4" "2-Getting Set Up.mp4" "1-Introduction To Understanding React.mp4" "../" "./")
+
+ ("/Users/anoop/meteor/xslt3/private/" (22547 38742 0 0) "Hello.xsl" "Hello.xml" "../" "./")
+
+ ("/Users/anoop/meteor/xslt3/server/" (22547 42787 0 0) "main.js" "anoop2.js" "anoop.js" "../" "./")
+
+ ("/Users/anoop/meteor/xslt3/" (22547 38007 0 0) "server/" "package.json" "node_modules/" "client/" ".meteor/" ".gitignore" "../" "./")
+
+ ("/Users/anoop/meteor/xslt3/.meteor/" (22547 37932 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/anoop/meteor/xslt2/private/" (22547 35242 0 0) "Hello.xsl" "Hello.xml" "../" "./")
+
+ ("/Users/anoop/meteor/xslt2/" (22547 35206 0 0) "server/" "private/" "package.json" "node_modules/" "client/" ".meteor/" ".gitignore" "../" "./")
+
+ ("/Users/anoop/meteor/xslt2/node_modules/" (22547 35100 0 0) "nan/" "libxslt/" "libxmljs-mt/" "bindings/" "../" "./")
+
+ ("/Users/anoop/meteor/xslt/" (22547 30898 0 0) "test.json" "package.json" "node_modules/" "Hello.xsl" "Hello.xml" "anoop.js" "../" "./")
+
+ ("/Users/anoop/meteor/xslt2/server/" (22547 35093 0 0) "main.js" "anoop.js" "../" "./")
+
+ ("/Users/anoop/meteor/xslt/node_modules/.bin/" (22547 28212 0 0) "xml-js" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/" (22539 37734 0 0) "vagrant.mp4" "todos/" "setting-up-meteor-projects/" "React/" "not-done-yet/" "meteor/" "javascript-runtime/" "javascript-functions/" "Getting-started-with-meteor/" "File Uploader/" "evented-mind__wrapAsync.mp4" "ES2015/" "class-the-javascript-runtime/" "class-javascript-objects/" "class-how-the-web-works/" "Build-a-multi-page-app-with-iron-meteor/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/webdav0/OmniFocus.ofocus/" (22444 51616 0 0) "20160811185320=k7IA8926bDv.client" "20160811182859=ctsaJs1JWP0.client" "20160811175628=k7IA8926bDv.client" "20160811172858=ctsaJs1JWP0.client" "20160811051328=gX0j7Nvg-f6+n-ezpJg36gC+kdxA80jqMwm.zip" "20160811051236=nBrp1r3NGKh+n-ezpJg36gC.zip" "20160811051236=iKw0qZXvs1N+nBrp1r3NGKh.zip" "20160811051235=gB_ow4kF-N4+iKw0qZXvs1N.zip" "20160811051234=lmo8POF4Um5+gB_ow4kF-N4.zip" "20160811051234=eV29j4mes4G+lmo8POF4Um5.zip" "20160811051233=l4Ne2_zyi9G+eV29j4mes4G.zip" "20160811051232=otOJUxHgpSw+l4Ne2_zyi9G.zip" "20160811051232=m32_InlgYXq+otOJUxHgpSw.zip" "20160811051231=p07y-3UpenY+m32_InlgYXq.zip" "20160811051230=oMdRUFrsrZf+p07y-3UpenY.zip" "20160811051228=aXa67DmmCQn+oMdRUFrsrZf.zip" "20160811051217=gS15OcZ0KkW+gX0j7Nvg-f6.zip" "20160811051215=puxqKgjOXB9+gS15OcZ0KkW.zip" "20160811051209=jiSF-N5faGi+puxqKgjOXB9.zip" "20160811051204=oKn0oAdskEZ+jiSF-N5faGi.zip" "20160811051203=pIDQgU64Svu+oKn0oAdskEZ.zip" "20160811051202=ltI3VosaRtY+pIDQgU64Svu.zip" "20160811051201=mynKDt7K2Zi+ltI3VosaRtY.zip" "20160811051200=e7WS2HdQniB+mynKDt7K2Zi.zip" "20160811051157=oc-9Sa1XBlC+e7WS2HdQniB.zip" "20160811051156=mPpo16iLGPh+oc-9Sa1XBlC.zip" "20160811051155=bs01BDi5n4G+mPpo16iLGPh.zip" "20160811051153=aXa67DmmCQn+bs01BDi5n4G.zip" "20160811044525=nD0hsddcUbx+aXa67DmmCQn.zip" "20160811044524=k39KDOnjvAS+nD0hsddcUbx.zip" "20160811044524=bwkEAl_wKn_+k39KDOnjvAS.zip" "20160811044521=j9kEGZjUdHp+bwkEAl_wKn_.zip" "20160811044520=j3fZWsUfKAc+j9kEGZjUdHp.zip" "20160811044517=evA9TT-A-BK+j3fZWsUfKAc.zip" "20160811044516=iBCP_qTdNAy+evA9TT-A-BK.zip" "20160811044514=pq2lrRrDat7+dcDQkh3ymOg.zip" "20160811044514=dcDQkh3ymOg+iBCP_qTdNAy.zip" "20160811044510=oXLHagl6feW+pq2lrRrDat7.zip" "20160811044510=fZ5L820wGMp+oXLHagl6feW.zip" "20160811044508=fHwWO3avXCI+fZ5L820wGMp.zip" "20160811044507=e45GfG-2duS+fHwWO3avXCI.zip" "20160811044506=ilgJhurWW9h+e45GfG-2duS.zip" "20160811044505=kwvK-H4Pmpv+ilgJhurWW9h.zip" "20160811044503=osiCt8HcFjZ+nyMuULEXFso.zip" "20160811044503=nyMuULEXFso+kwvK-H4Pmpv.zip" "20160811044501=pD98zrvZPt7+osiCt8HcFjZ.zip" "20160811044500=gI6vybifWXK+pD98zrvZPt7.zip" "20160811044458=o7nUAnvwTRp+aG17RhUfeO9.zip" "20160811044458=aG17RhUfeO9+gI6vybifWXK.zip" "20160811044452=dMBaCz9SnbD+o7nUAnvwTRp.zip" "20160810182735=nSGWBhjaPNq+dMBaCz9SnbD.zip" "20160810182735=iA7doLBAHfv+nSGWBhjaPNq.zip" "20160810182722=bs8oY-eDpFJ+iA7doLBAHfv.zip" "20160810182509=a9lhiRNWnpF+bs8oY-eDpFJ.zip" "20160810162422=e8Rqi4ipSnT.client" "20160810162139=e8Rqi4ipSnT.client" "20160810162008=e8Rqi4ipSnT.client" "20160810162005=e8Rqi4ipSnT.client" "20160810162000=e8Rqi4ipSnT.client" "20160810161955=e8Rqi4ipSnT.client" "20160810161926=e8Rqi4ipSnT.client" "20160810161817=e8Rqi4ipSnT.client" "20160810161805=e8Rqi4ipSnT.client" "20160810161701=e8Rqi4ipSnT.client" "20160810160138=e8Rqi4ipSnT.client" "00000000000000=dx2mgzzanrS+a9lhiRNWnpF.zip" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/src/DateField/" (22534 11638 0 0) "index.js" "icons.js" "../" "./")
+
+ ("/Users/anoop/reference/" (22539 35775 0 0) "torrents.txt" "sept2016.jpg" "orgfile.org" "infinite.sh" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/.ssh/" (22539 45628 0 0) "known_hosts" "id_rsa.pub" "id_rsa" "github_rsa.pub" "github_rsa" "config" "../" "./")
+
+ ("/Users/anoop/.hammerspoon/" (22543 11335 0 0) "tabs.lua" "init.lua" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/client/components/" (22546 14756 0 0) "tasks_list.js" "tasks_detail_view.js" "tasks_add_input_box.js" "tasks.js" "tab_bar.js" "reviews_list.js" "react_date_picker_anoop.css" "projects_list.js" "projects_detail_view.js" "projects.js" "modal_eye_header.js" "header.js" "forecasts_list.js" "forecasts.js" "date_time_selector.js" "contexts_list.js" "contexts_detail_view.js" "contexts.js" "big_calendar_anoop.css" "app.js" "accounts.js" "about0.js" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/node_modules/" (22536 57790 0 0) "xtend/" "xmldom/" "xml2json/" "x2js/" "whatwg-fetch/" "warning/" "verror/" "util-deprecate/" "uncontrollable/" "ua-parser-js/" "tweetnacl/" "tunnel-agent/" "tough-cookie/" "topo/" "symbol-observable/" "supports-color/" "strip-ansi/" "stringstream/" "string_decoder/" "strict-uri-encode/" "sshpk/" "sntp/" "simple-assign/" "roboto-fontface/" "request/" "regenerator-runtime/" "recompose/" "readable-stream/" "react-tap-event-plugin/" "react-style-normalizer/" "react-select/" "react-router/" "react-prop-types/" "react-overlays/" "react-notify-resize/" "react-mounter/" "react-modal/" "react-input-autosize/" "react-inline-block/" "react-flex/" "react-field/" "react-event-listener/" "react-dom/" "react-date-picker/" "react-class/" "react-big-calendar/" "react-addons-transition-group/" "react-addons-shallow-compare/" "react-addons-pure-render-mixin/" "react-addons-css-transition-group/" "react-addons-create-fragment/" "react/" "raf/" "query-string/" "qs/" "promise/" "process-nextick-args/" "pinkie-promise/" "pinkie/" "performance-now/" "pako/" "object-assign/" "oauth-sign/" "nth-check/" "node-uuid/" "node-fetch/" "node-expat/" "nan/" "moment/" "mime-types/" "mime-db/" "meteor-node-stubs/" "material-ui/" "loose-envify/" "lodash.throttle/" "lodash.some/" "lodash.restparam/" "lodash.reject/" "lodash.reduce/" "lodash.pick/" "lodash.merge/" "lodash.map/" "lodash.keys/" "lodash.isarray/" "lodash.isarguments/" "lodash.foreach/" "lodash.flatten/" "lodash.filter/" "lodash.defaults/" "lodash.bind/" "lodash.assignin/" "lodash.assign/" "lodash._isiterateecall/" "lodash._getnative/" "lodash._createassigner/" "lodash._bindcallback/" "lodash._basecopy/" "lodash._baseassign/" "lodash/" "lie/" "keycode/" "jszip/" "jsprim/" "jsonpointer/" "json-stringify-safe/" "json-schema/" "jsbn/" "js2xmlparser/" "js-tokens/" "joi/" "jodid25519/" "items/" "isstream/" "isomorphic-fetch/" "isemail/" "isarray/" "is-typedarray/" "is-stream/" "is-property/" "is-my-json-valid/" "invariant/" "inline-style-prefixer/" "inherits/" "immutable/" "immediate/" "iconv-lite/" "hyphenate-style-name/" "https/" "http-signature/" "http/" "htmlparser2/" "hoist-non-react-statics/" "hoek/" "history/" "hawk/" "has-ansi/" "har-validator/" "graceful-readlink/" "getpass/" "generate-object-property/" "generate-function/" "form-data/" "forever-agent/" "fbjs/" "extsprintf/" "extend/" "exenv/" "escape-string-regexp/" "es6-promise/" "entities/" "encoding/" "element-class/" "ecc-jsbn/" "domutils/" "domready/" "domhandler/" "domelementtype/" "dom-serializer/" "dom-helpers/" "delayed-stream/" "deep-equal/" "date-arithmetic/" "dashdash/" "css-what/" "css-select/" "crypto/" "cryptiles/" "core-util-is/" "core-js/" "commander/" "combined-stream/" "classnames/" "cheerio/" "change-emitter/" "chalk/" "caseless/" "bowser/" "boom/" "boolbase/" "bl/" "bindings/" "bcrypt-pbkdf/" "bcrypt/" "babel-runtime/" "aws4/" "aws-sign2/" "async/" "assert-plus/" "asn1/" "asap/" "ansi-styles/" "ansi-regex/" "adm-zip/" ".DS_Store" ".bin/" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/node_modules/x2js/" (22532 52276 0 0) "x2js.js" "tests_xml2js.js" "tests_smoke.js" "tests_js2xml.js" "tests_funky.js" "tests_config.js" "README.md" "package.json" "karma.conf.js" "jsconfig.json" "all_tests.js" ".vscode/" ".travis.yml" ".npmignore" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/.meteor/local/build/programs/server/app/" (22544 45890 0 0) "app.js.map" "app.js" "../" "./")
+
+ ("/Users/anoop/algo/" (22543 11163 0 0) "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein-Introduction to Algorithms-MIT (2009).pdf" "skiena-adm.pdf" "scanf-test.c" "other-books/" "math-for-cs.pdf" "input.txt" "cormen-solutions.pdf" "clrs/" "c++ compile flags.png" "bad/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/client/components/task_detail_view/" (22534 44853 0 0) "project_detail.js" "context_detail.js" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/src/" (22534 10230 0 0) "YearView.js" "utils/" "TransitionView.js" "toMoment.js" "TimePicker.js" "TimeInput/" "onEnter.js" "NavBar.js" "MultiMonthView.js" "MonthView.old.js" "MonthView/" "joinFunctions.js" "join.js" "index.js" "HistoryView.js" "getTransitionEnd.js" "Footer.js" "DecadeView.js" "DateFormatSpinnerInput/" "DateFormatInput/" "DateField/" "ClockInput.js" "Clock.js" "clampRange.js" "Calendar.js" "bemFactory.js" "BasicMonthView.js" "assignDefined.js" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/node_modules/react-date-picker/" (22533 9272 0 0) "theme/" "style/" "src/" "README.v4.md" "README.md" "react-date-picker.png" "react-date-picker-theme-hackerone.png" "react-date-field.png" "picker.gif" "package.json" "node_modules/" "logfile" "LICENSE" "lib/" "index.jsx" "index.html" "index.css" "dist/" "CHANGELOG.md" "base.css" ".tern-project" ".npmignore" ".eslintrc.json" ".editorconfig" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/.meteor/" (22527 56856 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/" (22517 9457 0 0) "webdav0/" "sync1-anoop.el" "ofocus-format/" "notes-ideas.org" "ngrok-2/" "logo-ideas/" "leaderboard-modified/" "jsDAV-anoop/" "jsDAV/" "contents-example.xml" "0000zipfile/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/jsDAV-anoop/public/OmniFocus.ofocus/" (22518 60825 0 0) "im-here.txt" "20161005105215=AA+L+mC7wSfCgUh5.zip" "20161005100513=J+K+L.zip" "20161005095241=I+K.zip" "20161005095240=J+AA.zip" "20161005095240=D+I+J.zip" "20161005092044=F+H+I.zip" "20161005085636=E+F.zip" "20161005085627=B+E.zip" "20161005085256=G+H.zip" "20161005085256=C+D.zip" "20161005085256=B+G.zip" "20161005085240=B+C.zip" "20161005084559=k7IA8926zzz.client" "00000000000000=A+B.zip" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/delete/" (22520 27183 0 0) "webdav-fs/" "temp.js" "moment.html" "Build your own Galaxy hosting for Meteor.js - Crater Conf-XBIXo3-l6Rs.f136.mp4.part" "Amazon EC2 SSH Login-K-IRgEge6jA.mkv" "Amazon EC2 Setup-OXdPdSekVtg.mp4" "Amazon EC2 Meteor Deployment.mp4" "Amazon EC2 Meteor Deployment-Lyyh2fkXovo.f140.m4a.part" "Amazon EC2 Meteor Deployment-Lyyh2fkXovo.f137.mp4" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/imports/collections/" (22509 53014 0 0) "Tests.js" "tasks_anoop.js" "Task.js" "omni.js" "../" "./")
+
+ ("/Users/anoop/meteor/a+b+c-investigation/" (22516 50533 0 0) "step3 complete/" "start - 000+krS/" "rm_client_files.sh" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/.ngrok2/" (22516 14603 0 0) "ngrok.yml" "../" "./")
+
+ ("/Users/anoop/meteor/node_hello_anoop/" (22513 44842 0 0) "package.json" "npm-debug.log" "node_modules/" "image.png" "hello.js" "downThemAll.js" "default.js" "anoop/" "adm-zip-example.js" "28sept.js" "26sept.js" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/delete/28sept/" (22507 380 0 0) "taskUpdateContents.xml" "taskAddContents.xml" "OmniFocus.ofocus/" "000Contents.xml" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/c-kochan/" (22465 62390 0 0) "readme.org" "Kochan-C.epub" "a.out" "2_5.c" "2_4.c" "2_2.c" "2.1.c" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/todos/" (22467 45666 0 0) "config/" "build/" "bin/" "app/" ".iron/" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/class-javascript-objects/" (22468 6580 0 0) "original-github/" "javascript-objects/" "app.js" "app.html" "anoopWorkpad/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/evented-mind/class-javascript-objects/original-github/" (22468 251 0 0) "README.md" "objects-reference-and-value-types/" "objects-object-create/" "objects-native-constructors/" "objects-inheritance/" "objects-enumerating-properties/" "objects-data-types/" "objects-creating/" "objects-constructor-functions/" "objects-constructing/" "objects-configure-properties/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/anoop/sem9/ManuAuto/" (22494 49992 0 0) "wget.txt" "unrar.js" "bash.sh" "adm.js" "9.pdf" "7_8.pdf" "5_6.pdf" "3_4.pdf" "23.pdf" "22.pdf" "1_2.pdf" "17_18.pdf" "16.pdf" "15.pdf" "13_14.pdf" "11_12.pdf" "10.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/placement/" (22502 57036 0 0) "test1 syllabus.pdf" "resume/" "quora_wo.crx" "placement-schedule.pdf" "johny.pdf" "iframe.js.console" "erp_regCard.crx" "biju resume.pdf" "backup/" "2chrome_extension_quora.pem" "2chrome_extension_quora/" "1chrome_extension.pem" "1chrome_extension/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/ngrok-2/" (22504 60465 0 0) "readme.org" "ngrok-config-example.yml" "ngrok" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/bash_anoop/" (22505 33031 0 0) "sept27.js" "../" "./")
+
+ ("/Users/anoop/placement/1chrome_extension/" (22502 48466 0 0) "popup.js" "popup.html" "manifest.json" "icon.png" "background.js" "background.html" "../" "./")
+
+ ("/Users/anoop/sem9/laser/untitled folder/" (22498 8963 0 0) "Le assignment 2-3 solutions (7-18)-20160921T052503Z.zip" "Le assignment 2-3 solutions (7-18)/" "Le assignment 2-3 solutions (1-6, 19-25)-20160921T052455Z.zip" "Le assignment 2-3 solutions (1-6, 19-25)/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/sem9/laser/" (22498 8956 0 0) "untitled folder/" "LE - Assignment 1 Solution.jpg" "Laser/" "Assignemnt No-2&3 -2016.pdf" "Asgn 1.pdf" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/sem9/" (22498 8198 0 0) "MEMS/" "ManuAuto/" "laser/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/sem9/laser/Laser/" (22498 7268 0 0) "Mid Sem-2015.docx" "LE-8- Pumping Mechanisms.pdf" "LE-8 & 9  -Solid State Laser.pdf" "LE-6-Mode of Laser Operation.pdf" "LE-5-Optical Resonator.pdf" "LE-4  Broadening Mechanisms, Gain Saturation & Laser power.pdf" "LE-3 Laser Oscillation Condition.pdf" "LE-2 Light Matter Interaction.pdf" "LE-16 Ar-ion  & CVL laser.pdf" "LE-13-15  He-Ne and CO2 Laser.pdf" "LE-12 Ti-Sapphire Laser.pdf" "LE-11 Diode Lasers.pdf" "LE-10 Fiber Laser.pdf" "LE-1 Introduction.pdf" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/0000zipfile/" (22492 18146 0 0) "data/" "contents.xml" "contents.pdf" "contents.pages" "contents.json" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/node_modules/request-digest/" (22493 19155 0 0) "request-digest.es5.js" "README.md" "package.json" "node_modules/" "LICENSE" ".npmignore" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/node-request-digest/" (22493 12034 0 0) "tests/" "request-digest.js" "request-digest.es6.js" "request-digest.es5.js" "README.md" "package.json" "LICENSE" ".travis.yml" ".npmignore" ".jshintrc" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/anoop/Downloads/File Uploader/" (22492 10809 0 0) "video-1.mp4" "457_www.eventedmind.com_video-1.mp4" "456_www.eventedmind.com_video-1.mp4" "455_www.eventedmind.com_video-1.mp4" "454_www.eventedmind.com_video-1.mp4" "453_www.eventedmind.com_video-1.mp4" "452_www.eventedmind.com_video-1.mp4" "451_www.eventedmind.com_video-1.mp4" "450_www.eventedmind.com_video-1.mp4" "448_www.eventedmind.com_video-1.mp4" "../" "./")
+
+ ("/Users/anoop/Downloads/" (22492 9270 0 0) "Zenburn.itermcolors" "ytdl.sh" "YouTube_Channel_Art_Template.zip" "YouTube_Channel_Art_Template.psd" "youtube/" "Wrox - Beginning JavaScript (5th Edition).pdf" "wp-help-sheet.zip" "wp-help-sheet.txt" "WordPress_Theme_Development_3rd_Edition_Rachel_McCollin(www.ebook-dl.com).zip" "wordpress-4.4.2.zip" "wordpress-4.4.2 (2).zip" "wordpress-4.4.2 (1).zip" "Wireshark 2.0.5 Intel 64.dmg" "WhatsApp.zip" "Web Server Configuration - Mr Alokesh.ppt" "vlc-2.2.1.dmg" "valuation.ppt" "USKeylayout_custom_no_alt.keylayout" "users.tar.gz.torrent" "url.html" "Untitleddocument.pdf" "unix-source.tar" "ubuntu-16.04.1-desktop-amd64.iso" "ubuntu-14.04.3-desktop-amd64.iso" "TZTester.jar" "Tutorial#3.ppt" "TunnelBear-2.5.9.zip" "Trajectory Generation.ppt" "torrents/" "TorBrowser-6.0.3-osx64_en-US.dmg" "TorBrowser-5.5.1-osx64_en-US.dmg" "TomorrowTheme.zip" "TomorrowTheme/" "Tomorrow.terminal" "Tomorrow Night Eighties.terminal" "todo-list-vanilla-js-master.zip" "tiger-7680x4320-muzzle-grin-amur-portrait-934.jpg" "TI84Plus_OS255.8Xu" "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein-Introduction to Algorithms-MIT (2009).pdf" "TextMate_2.0-beta.9.tbz" "TesterDream1_2_4.zip" "Terry_A._Ring_Fundamentals_of_ceramic_powder_processing_and_synthesis__1996.pdf" "Terry A. Ring-Fundamentals of Ceramic Powder Processing and Synthesis-Academic Press (1996).pdf" "Terry A. Ring-Fundamentals of Ceramic Powder Processing and Synthesis-Academic Press (1996).djvu" "templated-primitiveelement.zip" "templated-primitiveelement/" "temp.html" "temp/" "TeamViewer.dmg" "swift-programming-the-big-nerd-ranch-guide.zip" "swift-programming-the-big-nerd-ranch-guide/" "summer_quarter_report_SPRING.pdf" "summer_quarter_report_SPRING-2.pdf" "summer_quarter_report_AUTUMN.pdf" "summer_quarter_report_AUTUMN-2.pdf" "SuhasRao.pdf" "subs.numbers" "Sublime Text Build 3114.dmg" "Sublime Text Build 3083.dmg" "Sublime Text 2.0.2.dmg" "StudentAdmitCard.pdf" "Stephen G. Kochan-Programming in C-Addison-Wesley Professional (2014).epub" "Start Small, Stay Small - A Developer's Guide to Launching a Startup (Pdf, Epub & Mobi) Gooner.zip" "Start Small, Stay Small - A Developer's Guide to Launching a Startup (Pdf, Epub & Mobi) Gooner/" "stanforduniversity-125@2x.png" "SQLiteManager.zip" "sqlitebrowser-3.8.0v5.dmg" "SourceCodePro+Powerline+Awesome+Regular.ttf" "Slot_3_2017_.xlsx" "Skype_7.31.304.dmg" "Skim-1.4.20.dmg" "sintel.torrent" "sheep.zip" "shape1.zip" "shape/" "SetiUI-Icons-Sublime-master.zip" "Seti_UI/" "Seti_ST3-master.zip" "ServiceLogin.html" "sem9fees.pdf" "sem8midsem-admit.pdf" "ScreenFlow 5.0.2.dmg" "scrape-erp/" "Sci-Hub.zip" "samples.zip" "samples/" "saas-best-talk-patio11.mp4" "root_v6.06.00.Linux-ubuntu14-x86_64-gcc4.8.tar.gz" "root_v6.04.14.source.tar.gz" "root_v6.04.14.macosx64-10.11-clang70.tar.gz" "root-6.04.14/" "Robots_and_Computer_Controlled-2016-02-18.zip" "robomongo-0.9.0-rc9-darwin-x86_64-0bb5668.dmg" "response.pdf.pdf" "repleasesend2015questionpaper.zip" "reg-card-sem8.pdf" "Red Pill Book v2.0.rar" "README.md" "readable@evernote.com.zip" "readable@evernote.com (1).xpi" "readable@evernote.com/" "react-router-tutorial-master/" "react-15.3.0.zip" "Quiz 1_solution.docx" "Quick-Start-Affiliate-Marketing-Report.pdf" "quantus-anoop.apk" "qb64v1000-macosx.tar.gz" "PS6_Rubric.docx" "project-tracker-master.zip" "Project form.pdf" "ProgrammingCampSyllabus.pdf" "price.pdf" "Practice_Solutions.docx" "Practice.docx" "Practice Paper with solution.pages" "Practice Paper with solution.docx" "PPR_36091836.pdf" "PopsPack.jar" "Photoshop CC 2015_coque599.dmg" "pds_sec13_labmarks.xls" "pds_sec13_labmarks (1).xls" "pds-spring2013-midsem-sec3.xls" "pds-spring2013-CT2-sec3.xls" "PDFEx12.zip" "PDF Expert.dmg" "pc-skiena-index.pdf" "Paul Graham - Y Combinator - Business of Software 2009-96682258.mp4" "Parallels_Desktop_11_0_0-31193.dmg" "out-1.mp4" "OS X Server 5.1.5_[HAXTECH.NET].zip" "Opera Developer Installer.app/" "OneClickRoot.pkg" "OmniSyncServer-backup-2016-08-21.tar" "OmniSyncServer-backup-2016-08-21 (2).tar" "OmniSyncServer-backup-2016-08-21 (1).tar" "OmniFocus Viewer.zip" "OmniFocus v. 1.9.4 with [K]rack.zip" "OmniFocus Pro v2.5.zip" "OmniFocus Pro v2.5/" "OmniFocus Pro 2.1.2.zip" "OmniFocus Pro 2.1.2/" "Noughts And Crosses/" "Norman Maclean-Young Men and Fire  -University Of Chicago Press (2010).epub" "noleech1.php.html" "noleech1.html" "ngrok-stable-darwin-amd64.zip" "ngrok" "nanoscience-midsem.pdf" "nano-2016-04-21.zip" "nano gour/" "mjolnir.th.hints-master.zip" "Mjolnir-0.4.3.tgz" "mirror-emacs-mac-master.zip" "Mirror Installer.dmg" "mingw-get-setup.exe" "Mineralogi.txt3.doc" "midnight.vim" "MicroXP-v0.82.iso" "Microsoft-Desktop_d305.dmg" "Microsoft-Desktop_d305 (1).dmg" "Microsoft Product Guide.pdf" "metals-06-00053.pdf" "Meslo LG M DZ Regular for Powerline.otf" "ME.pdf" "master.m3u" "master (2).m3u" "master (1).m3u" "Mark Rippetoe-Starting Strength-The Aasgaard Company (2011).mobi" "Mark Rippetoe, with Stef Bradford-Starting Strength_ Basic Barbell Training, 3rd Edition-The Aasgaard Company (2011).pdf" "main.cpp" "magicruby_2.mp4" "M_Bank_UAT.apk" "LMP_Sol_Assign 1_2016.pdf" "LMP_Sol_Assign 1_2016 (1).pdf" "LMP-12 Laser cutting.pdf" "Lithography.pdf" "Listify1025.7z" "Listify1025/" "LimeChat_2.42.tbz" "lightbox" "Let's Build Instagram with Ruby on Rails - Free Edition.pdf" "Lesson_5_Particle_in_a_box.pdf" "lecturematerialsondebtfinancingandinternationalfinanc.zip" "Lecture 9 -     Ratios.pptx" "Learn Ruby on Rails.pdf" "laser new.rar" "laser new/" "KawigiEdit_2.1.jar" "KawigiEdit_1.1.jar" "Karabiner-10.15.0.dmg" "juhi.txt" "jucy.macosx.cocoa.x86_64.zip" "jre-8u73-macosx-x64.dmg" "JonDo.dmg" "jigsaw-solver-master/" "jee2012st.xlsx" "jee2012.xlsx" "jdk-8u102-macosx-x64.dmg" "javascript_the_definitive_guide_6th_edition.pdf" "iTerm2-2_9_20160510.zip" "iTerm2-2_1_4.zip" "ISBN1118531647.rar" "ipad-pics/" "iOSProgramming5ed.zip" "ios9.torrent" "ios9-course.torrent" "ios-programming-5th.zip Folder.zip" "ios-programming-5th.zip Folder/" "invite-to-informal-meeting.docx" "Introduction_to_algorithms_A_creative_approach.pdf" "image.jpg" "IISc_profile_2012.pdf" "ifunboxmac.dmg" "Iceberg Slim-Pimp_ The Story of My Life-Cash Money Content (2011).epub" "iBackupBot-Setup.dmg" "HTML and CSS design and build websites.pdf" "Hammerspoon-0.9.45.zip" "haircut-fury/" "Hacking With Swift 学习笔记.pdf" "Hack Emacs - Working with Buffers.mp4" "groove-sections.xlsx" "GoogleVoiceAndVideoSetup.dmg" "GoogleChrome_001.dmg" "googlechrome.dmg" "go1.7.darwin-amd64.pkg" "GitHub Desktop 217.zip" "GetGoDMSetup.exe" "Gennady.Korotkevich_4_1.zip" "General security guidelines.pdf" "fwpreviouspapersofrobotics.zip" "fwpreviouspapersofrobotics/" "full.exe" "frameworkcrack.zip" "format_Removal_Internal_security_limits.pdf" "focus-gtd-anoop.apk" "fish-2.3.0.app.zip" "Firehose Project Software Engineering Curriculum.pdf" "firefox-50.0a2.en-US.mac.dmg" "Firefox 43.0.4.dmg" "FileEdit.jar" "File Uploader/" "feed.rss" "Far30b4519.x86.20160126.7z" "Fabian Vogelsteller-Building Single-page Web Apps with Meteor-Packt Publishing - ebooks Account (2014).pdf" "extension_10_6_1_8.crx" "export.csv" "examTimeTableReportSubjectWise.pdf" "examTimeTableReportSubjectWise (1).pdf" "evernote-clearly-firefox-xpi.zip" "Eric T. Freeman, Elisabeth Robson-Head First JavaScript Programming-O'Reilly Media (2014).pdf" "equity_chapter4.pptx" "Emacs-24.5-1-universal.dmg" "Emacs Tutorial Lesson 1.mp4" "Emacs as a C++ IDE - Atila Neves - CppCon 2015.pdf" "ed.dmg" "e49e4f98e68a2f987513f6a935255cee.torrent" "download" "dotfiles-master.zip" "dotfiles-master/" "DJVUToPDFEN.aspx.html" "Divvy for Mac 1.4.1.dmg" "devcpp-4.9.9.2_setup.exe" "demo-max-flow.ppt" "Dash.v3.0.2.dmg" "d_book_internet_23432.pdf" "cs193p-winter-2015-master.zip" "crimson.zip" "crimson/" "CreatingWin32App.wmv" "Cracking the Coding Interview, 5th Edition.pdf" "countdown-master.zip" "countdown-master/" "Copymaker - Editing a webpage in Google Chrome - All.csv" "ContestAppletProd.jnlp" "ContestAppletProd (1).jnlp" "contents.pdf" "Concrete Mathematics.pdf" "competitive programming.pdf" "commonFileDownloader.pdf" "coll17.jpg" "CodeTemplate.cpp" "CodeProcessor.jar" "CodeProcessor (1).jar" "Coda-WordPress-Mode-1.5.zip" "Coda-WordPress-Mode-1.5/" "Coda 2.zip" "cnc (1) (1).pdf" "class test#3-solution.docx" "class test#2-solution.docx" "class codes.zip" "class 1a.pptx" "chrome1.zip" "Chemalite Solution.xlsx" "Ch. 13 -13ed Corporate Valuation.ppt" "Ceramic Materials.pdf" "Ceramic Materia!s.pdf" "Ceramic engineering-2.ppt" "Cassini.zip" "Cassini/" "Cash Flow Statement.ppt" "car-speakers-590x90.zip" "C++ STL.doc" "Building_WordPress_Themes_from_Scratch_Joe_Casabona(www.ebook-dl.com).zip" "Build your own Galaxy hosting for Meteor.js - Crater Conf.mp4" "BTP Report - Anoop.pages" "BTP Report - Anoop.docx" "bootstrap-3.3.6-dist.zip" "bootstrap-3.3.6-dist/" "book.pdf" "book-exercises-master/" "blue-background-203547.jpg" "beginningjavascript5e-master/" "bbb_sunflower_2160p_60fps_normal.mp4" "bannersnack-ad-336x280.zip" "BalsMockups3.1.4.zip" "Balsamiq_Mockups_3.4.5.dmg" "Balsamiq.Mockups.v3.1.4.MACOSX.Incl.Keygen-AMPED/" "background.png" "background.jpg" "awriteuponinitialpublicofferingipo.zip" "avada387.zip" "avada387/" "Auto fill erp-feedback.user.js" "August menu revised 2- Copy.pdf" "atom-mac.zip" "Assignments-Winter-2015-cs193p-master.zip" "Assignment 1.pdf" "Assignment 1 (1).pdf" "Apress - Beginning Node.js.pdf" "appdn.net_das302.zip" "anti-adblock-killer.user.js" "anoopemacs-hello_app-34f3b0beeb8c/" "Anoop-2016-04-19.zip" "Anoop/" "androidfiletransfer.dmg" "alex.bucevschi_1_0.zip" "Alarm Clock.zip" "Adobe_Acrobat_Pro_DC.zip" "Aditya Bhargava-Grokking Algorithms_ An illustrated guide for programmers and other curious people-Manning Publications (2016).pdf" "ace-master.zip" "Accelerated Cpp Practical Programming by Example.pdf" "ABBYY FineReader Pro v12.0.7 Multilingual MacOSX-P2P.zip" "[www.seedpeer.eu] The Complete Web Developer Course Build 14 Websites.SEEDPEER.torrent" "[Nathan_Barry]_Authority_Become_an_Expert,_Build_(BookZZ.org).epub" "[limetorrents.cc]Weight.Gain.Blueprint.By.Jeff.Masterson..Complete.Blueprint..torrent" "[kat.cr]the.complete.ios.9.developer.course.build.18.apps.torrent" "8bec0a36-7872-4380-aef6-32fe6a851344.html" "7ages.jpg" "6.3.zip" "6-042j-fall-2010.zip" "6-042j-fall-2010 (1).zip" "53_36765_ME594_2014_1__2_1_Trajectory planning.pdf" "534662.txt" "511603034765421.pdf" "3693-10315-1-PB.pdf" "312130018.mp4" "3" "27a6df1d1b68bb7bd41bca4c669dc772.torrent" "248318708-Civil-Engineering-Thumb-Rule.pdf" "237015875-TVS-Suzuki-Shogun-Owner-s-Manual.pdf" "20160912134115=kdgltyEzc1v+aoHZa7dL12E.zip" "20160912053448=86d41b02e9f+5121af106bc.zip" "20160905080101=fExvHPJavHh+fRWuIxxoD3c+jHuPQbY-i0f.zip" "2012-1813. DH representation - examples.ppt" "1_Sample_Meeting_Request_Letter_2010.doc" "1563900.DOC" "1563900 (1).DOC" "1473890583186.works" "12-23-15 Startup School Radio (CLEAN).mp3" "10539184_1002754709809902_8525524587092881816_o.jpg" "10514496.html" "102412363.html" "0982522754PPST3.epub" "087322440X.pdf" "001-Introduction_to_Algorithms-solution.zip" "001-Introduction_to_Algorithms-solution/" "00000001.swf-{d3ff8e72-7bba-e143-9e01-99bb14a6b6c1}.dtapart" "00000000000000=dx2mgzzanrS+mg660mpcigH.zip" "00000000000000=dx2mgzzanrS+mg660mpcigH (1).zip" "00000000000000=dx2mgzzanrS+dwIPClMtjFM.zip" "00000000000000=dx2mgzzanrS+dwIPClMtjFM (3).zip" "00000000000000=dx2mgzzanrS+dwIPClMtjFM (3)/" "00000000000000=dx2mgzzanrS+dwIPClMtjFM (2).zip" "00000000000000=dx2mgzzanrS+dwIPClMtjFM (1).zip" "00000000000000=clde8g2IUKG+asRByfYjE26.zip" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/Documents/" (22444 11754 0 0) "youtube-instant/" "wunder-clone/" "wekan/" "trp/" "Sci-Hub/" "sample_ch01_Hochhaus_Meteor.pdf" "Salesforce-Excel-Connector/" "Parallels/" "OmniFocus Backups/" "ocr/" "My Videos/" "My Music/" "Library-Detector-for-Chrome/" "eclipse-workspace/" "c++/" "antichess/" ".parallels-vm-directory/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/.gem/" (22325 43005 0 0) "specs/" "../" "./")
+
+ ("/Users/anoop/derek-banas-c-tutorial/" (22457 59891 0 0) "string-array-pointer.c" "a.out" "1.c" "../" "./")
+
+ ("/Users/anoop/mastering-emacs/" (22459 19735 0 0) "notes1.org" "Mickey Petersen-Mastering Emacs (2015).pdf" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/ofocus-format/" (22476 9003 0 0) "README.md" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/react/github-battle/" (22452 7555 0 0) "../" "./")
+
+ ("/Users/anoop/meteor/myResolutions/.meteor/" (22456 49837 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/anoop/meteor/myResolutions/client/resolutions/" (22456 53100 0 0) "ResolutionsWrapper.jsx" "ResolutionSingle.jsx" "ResolutionsForm.jsx" "ResolutionDetail.jsx" "../" "./")
+
+ ("/Users/anoop/meteor/myResolutions/" (22456 53001 0 0) "styles.styl" "settings.json" "settings-test-anoop-video-17.json" "server/" "package.json" "node_modules/" "index.html" "client/" ".meteor/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/.config/" (22477 12964 0 0) "wireshark/" "robomongo/" "mpv/" "heroku/" "git/" "fish/" "filezilla/" "eiskaltdc++/" "../" "./")
+
+ ("/Users/anoop/meteor/razorgtd1/imports/" (22476 16967 0 0) "collections/" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/jsDAV-anoop/public/" (22477 39493 0 0) "OmniFocus.ofocus/" ".DS_Store" "../" "./")
+
+ ("/Users/anoop/meteor/razor-gtd/jsDAV-anoop/" (22477 16989 0 0) "server.js" "public/" "npm-debug.log" "node_modules/" "data/" ".DS_Store" "../" "./")
+
+ ("/Users/" (22164 59396 0 0) "Shared/" "Guest/" "anoop/" ".localized" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/" (22475 51042 0 0) "shorten_my_link/" "markbin/" "images/" "employees/" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/flow-router-test/" (22475 45980 0 0) "package.json" "node_modules/" "client/" ".meteor/" ".gitignore" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/flow-router-test/client/" (22475 46015 0 0) "routes.jsx" "app.jsx" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin-flow-router/.meteor/" (22475 7862 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/MeteorCasts-official-github/" (22473 5799 0 0) "shorten_my_link/" "README.md" "markbin/" "LICENSE.md" "images/" "employees/" ".git/" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin-flow-router/" (22475 9092 0 0) "server/" "package.json" "node_modules/" "imports/" "client/" ".meteor/" ".gitignore" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin-flow-router/client/" (22475 11098 0 0) "main.js" "main.html" "main.css" "components/" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/.meteor/" (22474 58690 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/" (22474 59776 0 0) "server/" "package.json" "node_modules/" "imports/" "client/" ".meteor/" ".gitignore" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/imports/" (22474 59783 0 0) "collections/" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/imports/collections/" (22474 62823 0 0) "bins.js" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/markbin/client/" (22474 58015 0 0) "main.js" "main.html" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/shorten_my_link/.meteor/" (22474 28975 0 0) "versions" "release" "platforms" "packages" "local/" ".id" ".gitignore" ".finished-upgraders" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/shorten_my_link/" (22474 29079 0 0) "server/" "package.json" "node_modules/" "imports/" "client/" ".meteor/" ".gitignore" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/shorten_my_link/client/" (22474 29282 0 0) "main.js" "main.html" "components/" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/src/shorten_my_link/client/components/" (22474 30196 0 0) "link_create.js" "header.js" "../" "./")
+
+ ("/Users/anoop/meteor/udemy Meteor and React for Realtime Apps/" (22473 4380 0 0) "src/" "5 - Full Stack Development - Workspaces/" "4 - Getting More Complex - Meteor Methods/" "3 - On to Meteor!/" "2 - A React Primer/" "1 - The Basics of Any Meteor App/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

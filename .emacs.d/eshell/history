@@ -1,0 +1,128 @@
+cd ..
+meteor mongo
+interrupt: 2
+meteor mongo
+cd ..
+meteor
+k
+cd ..
+meteor
+cd ..
+meteor
+ls
+cd meteor/
+cd ..
+meteor
+cd ..
+meteor
+meteor
+meteor mongo
+cd ../..
+meteor
+cd meteor/razorgtd1/
+meteor
+curl -x 10.3.100.207:8080 -u anoop:password https://sync6.omnigroup.com/anoop/OmniFocus.ofocus/ --verbose
+curl -u anoop:password https://sync6.omnigroup.com/anoop/OmniFocus.ofocus/ --verbose
+* Connection #0 to host sync6.omnigroup.com left intact
+curl -u anoop:password https://sync6.omnigroup.com/anoop/OmniFocus.ofocus/ --verbose
+curl -U anoop:password https://sync6.omnigroup.com/anoop/OmniFocus.ofocus/ --verbose
+curl -u anoop:password https://sync6.omnigroup.com/anoop/ --verbose
+-u anoop:password https://sync6.omnigroup.com/anoop/ --verbose
+wget https://anoop:password@sync6.omnigroup.com/anoop/
+ls
+rm index.html 
+cd
+cd delete/
+ls
+wget https://anoop:password@sync6.omnigroup.com/anoop/
+b
+b
+b
+b
+cd ..
+meteor
+meteor
+cd ..
+meteor
+cd ..
+meteor
+cd ..
+meteor
+cd ..
+meteor
+meteor
+cd ..
+meteor
+cd meteor/razorgtd1/
+meteo
+meteor
+cd meteor/razorgtd1/
+meteor
+meteor
+meteor
+cd ..
+meteor
+export http_proxy='http://10.3.100.207:8080'
+export https_proxy='http://10.3.100.207:8080'
+export https_proxy='https://10.3.100.207:8080'
+export https_proxy='http://10.3.100.207:8080'
+meteor
+meteor
+export https_proxy='http://10.3.100.207:8080'
+export http_proxy='http://10.3.100.207:8080'
+meteor
+cd el
+cd delete/
+hi > temp.txt
+"hi" > temp.txt
+ls
+ls > temp6.txt
+cat temp6.txt
+ls | grep "i"
+ls > temp6.txt
+cat temp6.txt
+curl -u anoop:password https://sync6.omnigroup.com/anoop/ --verbose
+meteor
+meteor
+echo $HTTP_PROXY
+cd meteor/razorgtd1/
+meteor
+meteor
+meteor
+ls
+clear
+cd delete/
+curl --digest -u anoop:password -X GET https://sync6.omnigroup.com/anoop/anoop.txt --verbose
+curl --digest -u anoop:password -X GET https://sync6.omnigroup.com/anoop/anoop.txt --verbose
+cd ..
+meteor
+meteor run --port 4000
+meteor
+clear
+meteor
+meteor debug
+meteor debug
+meteor debug
+meteor debug
+meteor debug
+meteor debug
+meteor debug
+meteor reset
+meteor debug
+cd ..
+meteor
+meteor debug
+meteor debug
+meteor reset
+meteor debug
+meteor debug
+ps ax
+ps ax | grep nod
+killall -9 node
+meteor debug
+meteor debug
+meteor debug
+killall -9 node
+meteor debug
+meteor
+meteor
